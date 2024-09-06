@@ -1,0 +1,5 @@
+let array = [10];
+for(let i=0;i<5;i++) {
+array[i] = prompt("Enter 5 elements into the array");
+}
+console.log(array);
